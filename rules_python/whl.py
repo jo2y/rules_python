@@ -16,6 +16,7 @@
 import argparse
 import json
 import os
+import pkg_resources
 import re
 import zipfile
 
